@@ -1,0 +1,10 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\bin\Debug\10_textbox.exe.config
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\bin\Debug\10_textbox.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\bin\Debug\10_textbox.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\10_textbox.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\_10_textbox.Form1.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\_10_textbox.Properties.Resources.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\10_textbox.csproj.GenerateResource.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\10_textbox.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\10_textbox.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\10_textbox\obj\Debug\10_textbox.pdb
